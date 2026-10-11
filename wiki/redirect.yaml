@@ -1,0 +1,7 @@
+# Old or other names for our pages: "name": "Path". Names are lower case with underscores.
+# osu-web reads this file (it caches it), so keep it here even with few entries.
+"legal": "Legal"
+"team": "People/Team"
+"staff_log": "People/Staff_log"
+"ranking_queue": "Beatmap_ranking_procedure/Ranking_queue"
+"bots": "Bot_account"
