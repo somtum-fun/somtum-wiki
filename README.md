@@ -30,6 +30,9 @@ and [article styling criteria](https://osu.ppy.sh/wiki/Article_styling_criteria)
 
 - Link to our own pages with `/wiki/<Path>`, and to osu!'s wiki with a full `https://osu.ppy.sh/wiki/...` link.
 - The rules, terms, privacy and copyright pages are on the website (`/legal/en/...`); link to them there.
+  Their text can come from `wiki/Legal/<Page>` (Rules, Restrictions, Terms, Privacy, Copyright) when an admin
+  picks "From the wiki" for that page in the website's Admin panel. Those pages take `last_updated: "YYYY-MM-DD"`
+  in their front matter, and changes to them need staff approval.
 - Keep it plain and friendly.
 
 ## Contributing
