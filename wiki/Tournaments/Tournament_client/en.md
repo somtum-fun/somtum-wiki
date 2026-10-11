@@ -29,6 +29,13 @@ instead**, including osu!'s website in your browser. Only run it while you're us
 close it afterwards.
 :::
 
+::: alert-warning
+**Discord:** while Fiddler is open, don't join servers or do anything big on Discord (like changing your
+account's settings, email or password, or buying something). Fiddler passes all of Discord's traffic
+through itself, and Discord may see that as a hacked account and **ban it**. Voice chat and normal messages
+are fine. Close Fiddler first if you need to do something else on Discord.
+:::
+
 ### 1. Set up Fiddler {id=set-up-fiddler}
 
 1. Download and install [Fiddler Classic](https://www.telerik.com/fiddler/fiddler-classic).
