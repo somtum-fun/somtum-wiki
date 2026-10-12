@@ -34,10 +34,24 @@ Every osu! beatmap, with the same ranked status as on osu!, plus maps submitted 
 
 ## Why didn't my score submit? {id=score-not-submitted}
 
-- You played with a mod that isn't ranked here. Those plays don't give pp and stay off the leaderboards.
-- Your TumThai is out of date. Update it from the [download page](/home/download) (an installed TumThai updates itself).
-- The beatmap isn't ranked, approved or loved.
-- Your account is restricted (see [Restrictions & appeals](/legal/en/Restrictions)).
+Every play on a beatmap the server knows is submitted and saved, with its replay, whatever the map's status. The status only decides what the play gives you, as on osu!:
+
+| Map status | Leaderboard | pp |
+| :-- | :-- | :-- |
+| Ranked, Approved | Yes | Yes |
+| Qualified | Yes | No. Qualified maps are ranked after 1 day (see the [ranking queue](/wiki/Beatmap_ranking_procedure/Ranking_queue)). |
+| Loved | Yes | No |
+| Pending, WIP, Graveyard | No | No |
+
+So a play on an unranked map that gave you nothing *was* submitted; it just doesn't count for rankings.
+
+A score is really not submitted only when:
+
+- **Your TumThai is out of date.** Update it from the [download page](/home/download) (an installed TumThai updates itself).
+- **Your Somtum Patcher or legacy client is out of date or damaged.** Get it again from the [download page](/home/download) or the Somtum Launcher. The game usually tells you why; see [Error messages](#errors).
+- **The beatmap isn't on the server**, for example a map you made yourself and never submitted.
+
+If your account is restricted, your scores are still saved, but they're hidden from everyone else: only you can see them (see [Restrictions & appeals](/legal/en/Restrictions)).
 
 ## I was restricted. What now? {id=restricted}
 
