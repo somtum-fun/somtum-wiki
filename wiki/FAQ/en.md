@@ -43,14 +43,16 @@ Every osu! beatmap, with the same ranked status as on osu!, plus maps submitted 
 
 Read [Restrictions & appeals](/legal/en/Restrictions). If you think it's a mistake, email [support@somtum.fun](mailto:support@somtum.fun).
 
-### I was auto-restricted right after updating the Somtum Patcher {id=restricted-pkms-hwid}
+## Playing with the Somtum Patcher {id=somtum-patcher}
 
-A small number of players on **pkms 0.4.4** (shipped with Somtum Patcher 1.3.11 through 1.3.14) could trip a false hardware-ID tamper flag on their first launch after upgrading. If you submitted a score during that first session the server would auto-restrict you. This isn't your fault and we're sorry.
+The Somtum Patcher launches osu!(stable) on somtum.fun and keeps the session fair. While it is running:
 
-What to do:
+- **Don't run memory readers or cheat tools** (Cheat Engine, osu! trainers, pattern scanners, timing-rate hacks, auto-clickers, replay editors and the like). The Patcher watches osu!'s memory and process handles for them, and if it sees one your score will be refused and your account can be restricted.
+- **Don't attach a debugger to osu!.exe.** The Patcher treats debuggers as tamper. If you're just curious, close the debugger before launching.
+- **Overlays like Discord, MSI Afterburner or RivaTuner are fine.** The Patcher only flags programs that read or write osu!'s own memory.
+- **Streaming and recording software are fine** (OBS, ShadowPlay, NVIDIA/AMD overlay). They don't touch the game.
 
-1. Update to the latest Somtum Patcher from the [download page](/home/download) — **pkms 0.4.5** (Patcher 1.3.15) fixes the false positive and the server-side rule that would restrict on it alone.
-2. Email [support@somtum.fun](mailto:support@somtum.fun) from your account's email, mention "pkms HWID false positive" and your username. We'll lift the restriction and keep your scores.
+If you weren't using any of those and your score was still refused, email [support@somtum.fun](mailto:support@somtum.fun) from your account's email with your username and roughly when you played, and we'll look into it.
 
 ## Can I change my username? {id=username}
 
