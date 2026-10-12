@@ -24,7 +24,7 @@ New here? These pages get you playing. If anything goes wrong, the [Help centre]
 
 Play with TumThai (our osu!lazer client), with osu!(stable) through the Somtum Patcher, or with an osu! client from 2008 to 2015. One account works in all of them and on this website.
 
-[How to connect](/wiki/FAQ#how-do-i-connect) • [Relax and Autopilot](/wiki/FAQ#relax-and-autopilot) • [Restrictions & appeals](/legal/en/Restrictions)
+[How to connect](/wiki/FAQ#how-do-i-connect) • [Relax and Autopilot](/wiki/FAQ#relax-and-autopilot) • [osu!dan](/wiki/osu!dan) • [Error messages](/wiki/FAQ#errors) • [Restrictions & appeals](/legal/en/Restrictions)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -42,7 +42,7 @@ Submit your maps from the editor, get them nominated by our Beatmap Nominators, 
 
 The people who run somtum.fun, and how to reach them.
 
-[Team](/wiki/People/Team) • [Staff log](/wiki/People/Staff_log) • [Reporting abuse](/wiki/Reporting_bad_behaviour/Abuse) • [Discord](https://discord.gg/U6Ztb3mRyz)
+[Team](/wiki/People/Team) • [User groups](/wiki/People/User_groups) • [User titles](/wiki/People/User_title) • [Staff log](/wiki/People/Staff_log) • [Reporting abuse](/wiki/Reporting_bad_behaviour/Abuse) • [Discord](https://discord.gg/U6Ztb3mRyz)
 
 </div>
 <div class="wiki-main-page-panel">

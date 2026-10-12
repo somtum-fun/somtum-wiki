@@ -54,6 +54,14 @@ The Somtum Patcher launches osu!(stable) on somtum.fun and keeps the session fai
 
 If you weren't using any of those and your score was still refused, email [support@somtum.fun](mailto:support@somtum.fun) from your account's email with your username and roughly when you played, and we'll look into it.
 
+## What is osu!dan? {id=osu-dan}
+
+Courses of long osu!mania maps, from DanReform: pass one with 96% accuracy and no pausing, and it's on your record. See [osu!dan](/wiki/osu!dan) for the rules, and the [osu!dan page](/community/dan) for the courses.
+
+## How do I get a title or a group badge? {id=titles-and-groups}
+
+Staff give them. See [User titles](/wiki/People/User_title) and [User groups](/wiki/People/User_groups).
+
 ## Can I change my username? {id=username}
 
 Email [accounts@somtum.fun](mailto:accounts@somtum.fun) from your account's email address.
@@ -61,3 +69,67 @@ Email [accounts@somtum.fun](mailto:accounts@somtum.fun) from your account's emai
 ## Where do I report a bug or a player? {id=reporting}
 
 Report players with the report button in the game or on their profile. Report bugs on our [Discord](https://discord.gg/U6Ztb3mRyz). For anything serious, see [Reporting abuse](/wiki/Reporting_bad_behaviour/Abuse).
+
+## Error messages {id=errors}
+
+What the messages you might see in the game mean, and what to do about them.
+
+### "Authentication failed" or "Incorrect password" {id=error-login}
+
+Check your username and password; they're the same as on this website. Forgot your password? [Reset it here](/home/password-reset). Signing up happens in the game, not on the website (see [How do I make an account?](#registration)).
+
+### "This is a new device, so it needs confirming first" {id=error-new-device}
+
+You're logging in from a computer or network we haven't seen on your account. Sign in to this website, open [the verification page](/p/verify) and confirm the device there, then log in to the game again.
+
+### "This version of osu! can't confirm a new device" {id=error-new-device-old-client}
+
+Older builds can't show the confirmation screen. Confirm the device on [the verification page](/p/verify) first, then log in again. If that doesn't help, use TumThai or the Somtum Patcher from the [download page](/home/download).
+
+### "This old osu! build can't play on somtum.fun as it is" {id=error-old-build}
+
+That build needs our fixes. Download the same build, already patched, from the [download page](/home/download), or run it through the hook.
+
+### "Something on your computer isn't allowed while playing here (a debugger or a cheat tool)" {id=error-cheat-tool}
+
+A program that reads or changes osu!'s memory is running (see [Playing with the Somtum Patcher](#somtum-patcher)). Close it, then log in again.
+
+### "Score submission is disabled: your Somtum Patcher isn't running" or "didn't respond in time" {id=error-patcher-not-running}
+
+osu!(stable) was started without the Somtum Patcher, or the Patcher was closed or stopped while you played. Close osu! and start it again from the Somtum Patcher or the Somtum Launcher.
+
+### "Score submission is disabled: your Somtum Patcher failed the integrity check" {id=error-patcher-integrity}
+
+The Patcher's files were changed or damaged (an antivirus sometimes does this). Download it again from the [download page](/home/download) and reinstall it. If your antivirus removes it, add an exception for the Patcher's folder.
+
+### "Your Somtum Patcher is out of date" {id=error-patcher-outdated}
+
+Download the newest Somtum Patcher from the [download page](/home/download). Old versions stop being able to submit scores some time after a new one is out.
+
+### "Your computer has traces of hq!osu's multi-account tool (relife)" {id=error-relife}
+
+osu! found relife in your Windows registry. Turn relife off (or reinstall it and turn it off) so it doesn't trip again. This is a warning, not a restriction.
+
+### "Please contact staff directly to create an account" {id=error-contact-staff}
+
+A new account was made on the same computer as a restricted account. If that's a shared or family computer and you aren't the restricted player, email [accounts@somtum.fun](mailto:accounts@somtum.fun) with both usernames.
+
+### "This account is locked. Please contact staff." {id=error-locked}
+
+Staff locked the account. Email [support@somtum.fun](mailto:support@somtum.fun) from the account's email address.
+
+### "This account has been deleted" {id=error-deleted}
+
+The account was deleted on request or by staff. Email [accounts@somtum.fun](mailto:accounts@somtum.fun) if you think that's a mistake.
+
+### "Bot accounts can't log in to the game" {id=error-bot}
+
+That's a [bot account](/wiki/Bot_account): it can only chat over IRC. Log in to the game with your own account.
+
+### "This account has too many tournament client windows open" {id=error-tournament-windows}
+
+Close some of the tournament client's windows and try again (see [Tournament client](/wiki/Tournaments/Tournament_client)).
+
+### osu!dan: "this attempt won't count as a clear" {id=error-dan}
+
+Your score is saved as normal, it just isn't a dan clear. See [osu!dan](/wiki/osu!dan#not-a-clear) for each reason.

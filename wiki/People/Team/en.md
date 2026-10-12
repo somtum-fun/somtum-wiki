@@ -14,4 +14,6 @@ somtum.fun is run by volunteers. Each group's page lists its current members.
 | [Tournament Committee](/groups/15) | Run our tournaments. |
 | [Alumni](/groups/2) | Former staff who helped build somtum.fun. |
 
+What the badges and titles next to names mean: [User groups](/wiki/People/User_groups) and [User titles](/wiki/People/User_title).
+
 Need help? See the [Help centre](/wiki/Help_centre). Please use the support channels instead of messaging staff directly.
