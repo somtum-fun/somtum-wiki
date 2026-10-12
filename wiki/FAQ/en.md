@@ -12,7 +12,7 @@ All downloads are on the [download page](/home/download).
 
 - **TumThai** is our version of osu!lazer, for Windows and Linux. Install it (or unzip the portable version) and sign in. It updates itself.
 - **osu!(stable):** run the **Somtum Patcher** to play your osu!(stable) on somtum.fun.
-- **Old clients (2008 to 2015):** download one of the rebuilt legacy clients, unzip it anywhere and run `osu!.exe`. They need Windows and .NET Framework 3.5 (a few 2015 builds need .NET Framework 4). If you'd rather play an unmodified build, use the hook from the same page.
+- **Old clients (2008 to 2015):** download one of the rebuilt legacy clients, unzip it anywhere and run `osu!.exe`. They need Windows and .NET Framework 3.5 (a few 2015 builds need .NET Framework 4). If you'd rather play an unmodified build, use the hook from the same page. The hook ([somtum-fun/hook](https://github.com/somtum-fun/hook)) also lets old builds play today's beatmaps: it fixes, as each map loads, the parts of a modern `.osu` file an old build can't read.
 
 ## How do I make an account? {id=registration}
 
