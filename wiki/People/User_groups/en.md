@@ -8,16 +8,16 @@ These are the people who run somtum.fun. What each team does is on [the team pag
 
 | Badge | Group | |
 | :-- | :-- | :-- |
-| ADM | [Administrators](/groups/1) | Run the server and the website. |
-| DEV | [Developers](/groups/8) | Build TumThai, the game server, the website and our tools. |
-| GMT | [Global Moderation Team](/groups/9) | Moderate chat, forums and profiles, and look at reports. |
-| SPT | [Support Team](/groups/14) | Help players with their accounts and problems. |
-| NAT | [Nomination Assessment Team](/groups/11) | Look after the Beatmap Nominators and ranking quality. |
-| BN | [Beatmap Nominators](/groups/4) and [probationary BNs](/groups/5) | Nominate maps for ranking. |
-| LVD | [Project Loved](/groups/10) | Choose maps for the Loved category. |
-| TC | [Tournament Committee](/groups/15) | Run our tournaments. |
-| MDL | [Medal Team](/groups/17) | Review the [custom medals](/community/medals) players ask for. |
-| ALM | [Alumni](/groups/2) | Former staff, thanked for their work. |
+| ADM | [Administrators](/groups/admin) | Run the server and the website. |
+| DEV | [Developers](/groups/dev) | Build TumThai, the game server, the website and our tools. |
+| GMT | [Global Moderation Team](/groups/gmt) | Moderate chat, forums and profiles, and look at reports. |
+| SPT | [Support Team](/groups/spt) | Help players with their accounts and problems. |
+| NAT | [Nomination Assessment Team](/groups/nat) | Look after the Beatmap Nominators and ranking quality. |
+| BN | [Beatmap Nominators](/groups/bng) and [probationary BNs](/groups/bng_limited) | Nominate maps for ranking. |
+| LVD | [Project Loved](/groups/loved) | Choose maps for the Loved category. |
+| TC | [Tournament Committee](/groups/tc) | Run our tournaments. |
+| MDL | [Medal Team](/groups/medal) | Review the [custom medals](/community/medals) players ask for. |
+| ALM | [Alumni](/groups/alumni) | Former staff, thanked for their work. |
 
 Some groups (BN, NAT, Project Loved) show the game modes they work in as small mode icons next to the badge.
 
@@ -25,8 +25,8 @@ Some groups (BN, NAT, Project Loved) show the game modes they work in as small m
 
 | Badge | Group | |
 | :-- | :-- | :-- |
-| BOT | [Chat Bots](/groups/6) | Accounts run by programs (see [Bot account](/wiki/Bot_account)). They chat over IRC and can't play. |
-| FA | [Featured Artist](/groups/16) | Musicians whose music is on somtum.fun's featured artist listing. |
+| BOT | [Chat Bots](/groups/bot) | Accounts run by programs (see [Bot account](/wiki/Bot_account)). They chat over IRC and can't play. |
+| FA | [Featured Artist](/groups/featured_artist) | Musicians whose music is on somtum.fun's featured artist listing. |
 
 **Supporter** isn't a group: supporters get the heart on their profile instead.
 
