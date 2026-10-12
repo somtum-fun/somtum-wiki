@@ -51,7 +51,7 @@ The people who run somtum.fun, and how to reach them.
 
 Chat bots, the API and the IRC server.
 
-[Bot accounts](/wiki/Bot_account) • [API documentation](/docs/)
+[Bot accounts](/wiki/Bot_account) • [API (v2 and bancho.py)](/wiki/API) • [API v2 reference](/docs/)
 
 </div>
 <div class="wiki-main-page-panel">
