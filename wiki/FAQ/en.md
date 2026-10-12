@@ -43,6 +43,15 @@ Every osu! beatmap, with the same ranked status as on osu!, plus maps submitted 
 
 Read [Restrictions & appeals](/legal/en/Restrictions). If you think it's a mistake, email [support@somtum.fun](mailto:support@somtum.fun).
 
+### I was auto-restricted right after updating the Somtum Patcher {id=restricted-pkms-hwid}
+
+A small number of players on **pkms 0.4.4** (shipped with Somtum Patcher 1.3.11 through 1.3.14) could trip a false hardware-ID tamper flag on their first launch after upgrading. If you submitted a score during that first session the server would auto-restrict you. This isn't your fault and we're sorry.
+
+What to do:
+
+1. Update to the latest Somtum Patcher from the [download page](/home/download) — **pkms 0.4.5** (Patcher 1.3.15) fixes the false positive and the server-side rule that would restrict on it alone.
+2. Email [support@somtum.fun](mailto:support@somtum.fun) from your account's email, mention "pkms HWID false positive" and your username. We'll lift the restriction and keep your scores.
+
 ## Can I change my username? {id=username}
 
 Email [accounts@somtum.fun](mailto:accounts@somtum.fun) from your account's email address.
