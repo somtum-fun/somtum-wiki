@@ -106,6 +106,34 @@ The Patcher's files were changed or damaged (an antivirus sometimes does this). 
 
 Download the newest Somtum Patcher from the [download page](/home/download). Old versions stop being able to submit scores some time after a new one is out.
 
+### osu! closes with "[pkms] integrity violation in 'net': server rejected flag: revoked_version" {id=error-pkms-revoked}
+
+Your Somtum Patcher is a version we no longer accept (usually because a newer one fixes a problem). The game stops so nothing is played on it. Download the newest Somtum Patcher from the [download page](/home/download), or let the Somtum Launcher update itself, then start osu! again. You're not in trouble.
+
+### osu! closes with "[pkms] integrity violation in 'net': pkms: launched outside injector" {id=error-pkms-outside}
+
+The anti-cheat was loaded without the Somtum Patcher starting osu!. This happens when osu! restarts itself (after an osu! update, or from its own options) while the Patcher is attached. Close osu! and start it again from the Somtum Patcher or the Somtum Launcher.
+
+### osu! closes with "[pkms] integrity violation in 'net': network worker terminated unexpectedly" {id=error-pkms-network}
+
+The part of the anti-cheat that talks to our server was stopped. Most often an antivirus or firewall stopped it. Allow the Somtum Patcher's folder in your antivirus, close any tools that touch osu!, and start osu! again from the Patcher.
+
+### osu! closes with "[pkms] violation handler patched", "unreadable" or "stalled; failing closed" {id=error-pkms-handler}
+
+Something changed or froze the anti-cheat inside osu!. Close any program that reads or writes osu!'s memory (see [Playing with the Somtum Patcher](#somtum-patcher)) and start osu! again from the Patcher. If you weren't running anything like that, email [support@somtum.fun](mailto:support@somtum.fun) with your username, roughly when it happened and your antivirus's name.
+
+### Other "[pkms] integrity violation in '…'" messages {id=error-pkms-other}
+
+The anti-cheat found something changing osu! while it ran, and closed the game. Close the program it found and start osu! again from the Patcher. If it keeps happening and you don't know why, email [support@somtum.fun](mailto:support@somtum.fun) with a screenshot of the message.
+
+### "osu! did not finish starting within 10 seconds and has been closed" {id=error-patcher-start}
+
+osu! got stuck while starting (often while it updates, or while an antivirus scans it). Start `osu!.exe` once by itself, let it reach the main menu, close it, then use the Somtum Patcher again. If it keeps happening, delete osu!'s update and launcher cache files from your osu! folder.
+
+### "Still verifying your client — hold on" {id=error-patcher-verifying}
+
+Not an error: the Patcher is still checking in with our server. It can take up to 45 seconds, mostly on Linux with Wine. Wait for "Client verified".
+
 ### "Your computer has traces of hq!osu's multi-account tool (relife)" {id=error-relife}
 
 osu! found relife in your Windows registry. Turn relife off (or reinstall it and turn it off) so it doesn't trip again. This is a warning, not a restriction.
