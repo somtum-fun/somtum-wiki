@@ -1,6 +1,6 @@
 ---
 legal: true
-last_updated: "2026-10-12"
+last_updated: "2026-10-13"
 ---
 
 # Privacy Policy
@@ -103,7 +103,7 @@ For more details, please refer to the respective payment processor's privacy pol
 
 Your data and our server infrastructure are backed up and hosted by:
 
-- [OVHcloud](https://www.ovhcloud.com) (located in Singapore, operated by OVH Groupe SA)
+- [Oracle Cloud](https://www.oracle.com/asean/cloud/) (located in Singapore, operated by Oracle Corporation)
 
 This provider is used to maintain high availability, redundancy, and performance.
 
