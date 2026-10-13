@@ -17,7 +17,9 @@ All downloads are on the [download page](/home/download). The easiest way is the
 **Only these submit scores.** From October 2026, our anti-cheat checks every client that plays here, and only the Somtum Launcher, the Somtum Patcher, TumThai and our rebuilt legacy clients pass. You can still connect other ways, and log in, chat, play and join multiplayer, but **your scores won't be submitted**, because the anti-cheat can't verify those clients:
 
 1. **`-devserver`:** osu!(stable) started with `-devserver somtum.fun` (without the Somtum Patcher) still connects to somtum.fun, but its scores aren't submitted.
-2. **Your own modded clients:** a client you patched or built yourself (the way Titanic's clients connect to Titanic, for example) can connect to somtum.fun too, but its scores aren't submitted either. The same goes for other lazer clients pointed at somtum.fun (such as g0v0's, or osu!lazer with LazerAuthlibInjection) and unmodified old builds with the hook.
+2. **Your own modded clients:** a client you patched or built yourself (the way Titanic's clients connect to Titanic, for example) can connect to somtum.fun too, but its scores aren't submitted either. The same goes for other lazer clients pointed at somtum.fun (such as g0v0's, or osu!lazer with LazerAuthlibInjection).
+
+**Old clients (2008 to 2015) are different:** only our rebuilt legacy clients can log in. An unmodified old build (with the hook or not), or one you modded or rebuilt yourself, gets ["This old osu! build can't play on somtum.fun as it is"](#error-old-build) and can't connect.
 
 This keeps the rankings fair for everyone. If your setup can't run one of ours, tell us in [Discord](https://discord.gg/U6Ztb3mRyz).
 
@@ -121,7 +123,7 @@ Older builds can't show the confirmation screen. Confirm the device on [the veri
 
 ### "This old osu! build can't play on somtum.fun as it is" {id=error-old-build}
 
-That build needs our fixes. Download the same build, already patched, from the [download page](/home/download). If it isn't there, ask for it in our [Discord server](https://discord.gg/U6Ztb3mRyz) or on the [forum](/community/forums/4).
+Only our rebuilt legacy clients can log in with a 2008-2015 build: an unmodified build (with the hook or not), or one you modded yourself, can't. Download the same build, already patched, from the [download page](/home/download). If it isn't there, ask for it in our [Discord server](https://discord.gg/U6Ztb3mRyz) or on the [forum](/community/forums/4).
 
 ### "Something on your computer isn't allowed while playing here (a debugger or a cheat tool)" {id=error-cheat-tool}
 
@@ -134,6 +136,10 @@ osu!(stable) was started without the Somtum Patcher, or the Patcher was closed o
 ### "Score submission is disabled: your Somtum Patcher failed the integrity check" {id=error-patcher-integrity}
 
 The Patcher's files were changed or damaged (an antivirus sometimes does this). Download it again from the [download page](/home/download) and reinstall it. If your antivirus removes it, add an exception for the Patcher's folder.
+
+### "Your anti-cheat is out of date — score submission is disabled" {id=error-anticheat-outdated}
+
+You can play, but your Somtum Patcher or legacy client has an anti-cheat version we no longer accept. Get the newest Somtum Patcher from the [download page](/home/download) (or let the Somtum Launcher update), or download your legacy build again, then start osu! again.
 
 ### Legacy clients: "Score submission is disabled: the anti-cheat isn't running", "didn't respond in time", "failed the integrity check" or "is out of date" {id=error-legacy-anticheat}
 
