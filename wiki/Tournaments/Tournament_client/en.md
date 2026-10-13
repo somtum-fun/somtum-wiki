@@ -55,7 +55,7 @@ Only do this on your own PC.
         if (oSession.RequestMethod != "CONNECT") {
             var h = oSession.hostname.ToLower();
             if (h == "ppy.sh" || h.EndsWith(".ppy.sh")) {
-                var newHost = h.Substring(0, h.Length - 6) + "blueskychan.dev";
+                var newHost = h.Substring(0, h.Length - 6) + "somtum.fun";
                 oSession.utilCreateResponseAndBypassServer();
                 oSession.oResponse.headers.HTTPResponseCode = 307;
                 oSession.oResponse.headers.HTTPResponseStatus = "307 Temporary Redirect";

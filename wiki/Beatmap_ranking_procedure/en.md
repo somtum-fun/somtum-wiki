@@ -21,3 +21,11 @@ Two [Beatmap Nominators](/groups/bng) need to nominate the map on its discussion
 A qualified map is ranked by itself after **1 day**, as long as nobody finds a problem. If someone does, a nominator or the [Nomination Assessment Team](/groups/nat) can disqualify it, and it goes back to pending until it's fixed and nominated again.
 
 See the [ranking queue](/wiki/Beatmap_ranking_procedure/Ranking_queue) for what's about to be ranked.
+
+## Becoming a Beatmap Nominator {id=becoming-a-bn}
+
+Mappers and modders who know the ranking criteria well can apply to be a Beatmap Nominator on [BN Management](https://bn.somtum.fun/). Sign in there with your somtum.fun account and send an application for your game mode; the [Nomination Assessment Team](/groups/nat) look at your mods and let you know. New BNs start as [probationary](/groups/bng_limited) members.
+
+## Loved {id=loved}
+
+Maps that won't be ranked but that players enjoy can be **Loved** by [Project Loved](/groups/loved): they get leaderboards but give no pp. Project Loved takes new members in seasons. When one opens, we announce it in the [news](/home/news) and on our [Discord](https://discord.gg/U6Ztb3mRyz), so follow either to hear about it.

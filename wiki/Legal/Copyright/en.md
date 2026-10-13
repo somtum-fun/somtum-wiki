@@ -21,7 +21,7 @@ Email [dmca@somtum.fun](mailto:dmca@somtum.fun) with:
 
 1. Your name and how to contact you (email, and a phone number if you like).
 2. The work you own (or represent), and how to find it (a link, or a description).
-3. The link to each thing on somtum.fun you want removed, for example the beatmap page (osu.blueskychan.dev/beatmapsets/…), user profile or file.
+3. The link to each thing on somtum.fun you want removed, for example the beatmap page (osu.somtum.fun/beatmapsets/…), user profile or file.
 4. A statement that you believe in good faith that this use isn't allowed by you, your agent or the law.
 5. A statement that the information in your notice is accurate, and that you are the owner or allowed to act for the owner.
 6. Your signature (typing your full name is fine).

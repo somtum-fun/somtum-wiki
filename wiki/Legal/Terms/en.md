@@ -5,7 +5,7 @@ last_updated: "2026-10-05"
 
 # Terms of Service
 
-Welcome to somtum.fun! These terms apply when you use our website (osu.blueskychan.dev and our other sites), our game servers, chat and IRC, and our clients and tools. By making an account or playing here, you agree to them. If you don't agree, please don't use the service.
+Welcome to somtum.fun! These terms apply when you use our website (osu.somtum.fun and our other sites), our game servers, chat and IRC, and our clients and tools. By making an account or playing here, you agree to them. If you don't agree, please don't use the service.
 
 ## Who we are
 

@@ -6,7 +6,7 @@ osu!(stable); both use the same somtum.fun account.
 ## Getting TumThai {id=getting-tumthai}
 
 - **Windows:** download it from the [download page](/home/download), or use
-  [Somtum Launcher](https://dl.blueskychan.dev/launcher/), which installs and starts it for you.
+  [Somtum Launcher](/home/download), which installs and starts it for you.
 - **Linux:** the AppImage on the [download page](/home/download).
 - **Android:** the APK on the [download page](/home/download).
 

@@ -4,7 +4,7 @@ A bot account lets a program chat on somtum.fun, for example to run a tournament
 
 ## What a bot can do {id=what-a-bot-can-do}
 
-- Chat over IRC: server `irc.blueskychan.dev`, port `6667`, using the bot's name and its IRC password.
+- Chat over IRC: server `irc.somtum.fun`, port `6667`, using the bot's name and its IRC password.
 - Use the website and the [API](/wiki/API), for example to manage a team or post on the forums.
 
 A bot can't log in to the game (TumThai or osu!(stable)), and it has no scores. Website verification codes for a bot go to its owner.

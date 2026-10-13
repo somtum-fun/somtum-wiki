@@ -34,7 +34,8 @@ Some groups (BN, NAT, Project Loved) show the game modes they work in as small m
 
 You can't add yourself to a group. Staff add people:
 
-- **Beatmap Nominators** apply through [BN Management](https://bn.blueskychan.dev) when applications are open; the NAT decide. See the [ranking procedure](/wiki/Beatmap_ranking_procedure).
+- **Beatmap Nominators:** apply on [BN Management](https://bn.somtum.fun/) (sign in with your somtum.fun account); the NAT decide. See [Becoming a Beatmap Nominator](/wiki/Beatmap_ranking_procedure#becoming-a-bn).
+- **Project Loved** takes new members in seasons. When one opens, we announce it in the [news](/home/news) and on our [Discord](https://discord.gg/U6Ztb3mRyz), so follow either to hear about it.
 - **Other teams** ask for help when they need it, on our [Discord](https://discord.gg/U6Ztb3mRyz). Being friendly and helpful in the community is the best way to be noticed.
 - **Chat Bots:** see [Bot account](/wiki/Bot_account).
 
