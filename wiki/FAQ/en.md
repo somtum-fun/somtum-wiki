@@ -17,7 +17,7 @@ All downloads are on the [download page](/home/download). The easiest way is the
 **Only these submit scores.** From October 2026, our anti-cheat checks every client that plays here, and only the Somtum Launcher, the Somtum Patcher, TumThai and our rebuilt legacy clients pass. You can still connect other ways, and log in, chat, play and join multiplayer, but **your scores won't be submitted**, because the anti-cheat can't verify those clients:
 
 1. **`-devserver`:** osu!(stable) started with `-devserver somtum.fun` (without the Somtum Patcher) still connects to somtum.fun, but its scores aren't submitted.
-2. **Your own modded clients:** a client you patched or built yourself (the way Titanic's clients connect to Titanic, for example) can connect to somtum.fun too, but its scores aren't submitted either. The same goes for other lazer clients pointed at somtum.fun (such as g0v0's, or osu!lazer with LazerAuthlibInjection).
+2. **Your own modded clients:** a client you patched or built yourself (the way Titanic's clients connect to Titanic, for example) can connect to somtum.fun too, but its scores aren't submitted either. The same goes for other lazer clients pointed at somtum.fun (such as g0v0's, or osu!lazer with LazerAuthlibInjection). Their settings are in [Connecting with another lazer client](#other-lazer-clients).
 
 **Old clients (2008 to 2015) are different:** only our rebuilt legacy clients can log in. An unmodified old build (with the hook or not), or one you modded or rebuilt yourself, gets ["This old osu! build can't play on somtum.fun as it is"](#error-old-build) and can't connect.
 
@@ -32,6 +32,24 @@ TumThai can use the beatmaps, skins and replays you already have in osu!lazer. I
 - macOS: `~/Library/Application Support/osu`
 
 TumThai then reads that folder instead of its own, so close osu!lazer first. To move back, choose another folder the same way.
+
+## Connecting with another lazer client {id=other-lazer-clients}
+
+Using g0v0's client, another lazer-based client, or osu!lazer with LazerAuthlibInjection? Fill in these settings:
+
+| Setting | Value |
+|---|---|
+| API URL | `https://osu.somtum.fun` |
+| Website URL | `https://osu.somtum.fun` |
+| Client ID | `5` |
+| Client Secret | `FGc9GAtyHzeQDshWP5Ah7dega8hJACAJpQtw6OXk` |
+| Spectator URL | `https://spectator.somtum.fun/spectator` |
+| Multiplayer URL | `https://spectator.somtum.fun/multiplayer` |
+| Metadata URL | `https://spectator.somtum.fun/metadata` |
+| Beatmap Submission Service URL | `https://osu.somtum.fun/beatmap-submission` |
+| Non-g0v0 server | **On** (checked) |
+
+You can log in, chat, spectate and play multiplayer, but **score submission never works** on these clients. For your scores to count, play on [TumThai](#how-do-i-connect).
 
 ## How do I make an account? {id=registration}
 
@@ -52,6 +70,10 @@ Relax and Autopilot have their own leaderboards, rankings and pp, separate from 
 ## Which beatmaps can I play? {id=beatmaps}
 
 Every osu! beatmap, with the same ranked status as on osu!, plus maps submitted here by our mappers. Download maps in the game (osu!direct) or from the [beatmap listing](/beatmapsets).
+
+## Will my pp change? {id=pp-update}
+
+Yes, soon. We're updating our pp (performance points) calculation to the latest official osu! one. When it goes live, every score is recalculated, so your pp, your rank and the leaderboards may change, and so can how much pp a score gives. We'll announce it in the [news](/home/news) and on our [Discord](https://discord.gg/U6Ztb3mRyz).
 
 ## Why didn't my score submit? {id=score-not-submitted}
 
