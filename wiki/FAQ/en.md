@@ -14,11 +14,10 @@ All downloads are on the [download page](/home/download). The easiest way is the
 - **osu!(stable):** start your osu!(stable) with the **Somtum Patcher** (or from the Somtum Launcher).
 - **Old clients (2008 to 2015):** download one of our rebuilt legacy clients, unzip it anywhere and run `osu!.exe`. They need Windows and .NET Framework 3.5 (a few 2015 builds need .NET Framework 4). Can't find the build you want? Ask for it in our [Discord server](https://discord.gg/U6Ztb3mRyz) or on the [forum](/community/forums/4).
 
-**Only these submit scores.** From October 2026, our anti-cheat checks every client that plays here, and only the Somtum Launcher, the Somtum Patcher, TumThai and our rebuilt legacy clients pass. Other ways of connecting may still log you in, but **your scores won't be submitted**:
+**Only these submit scores.** From October 2026, our anti-cheat checks every client that plays here, and only the Somtum Launcher, the Somtum Patcher, TumThai and our rebuilt legacy clients pass. You can still connect other ways, and log in, chat, play and join multiplayer, but **your scores won't be submitted**, because the anti-cheat can't verify those clients:
 
-- osu!(stable) started with `-devserver somtum.fun` (without the Somtum Patcher);
-- other lazer clients pointed at somtum.fun, such as g0v0's or osu!lazer with LazerAuthlibInjection;
-- unmodified old builds with the hook.
+1. **`-devserver`:** osu!(stable) started with `-devserver somtum.fun` (without the Somtum Patcher) still connects to somtum.fun, but its scores aren't submitted.
+2. **Your own modded clients:** a client you patched or built yourself (the way Titanic's clients connect to Titanic, for example) can connect to somtum.fun too, but its scores aren't submitted either. The same goes for other lazer clients pointed at somtum.fun (such as g0v0's, or osu!lazer with LazerAuthlibInjection) and unmodified old builds with the hook.
 
 This keeps the rankings fair for everyone. If your setup can't run one of ours, tell us in [Discord](https://discord.gg/U6Ztb3mRyz).
 
@@ -68,7 +67,7 @@ A score is really not submitted only when:
 - **Your TumThai is out of date.** Update it from the [download page](/home/download) (an installed TumThai updates itself).
 - **Your Somtum Patcher or legacy client is out of date or damaged.** Get it again from the [download page](/home/download) or the Somtum Launcher. The game usually tells you why; see [Error messages](#errors).
 - **The beatmap isn't on the server**, for example a map you made yourself and never submitted.
-- **You connected another way** than the Somtum Launcher, the Somtum Patcher, TumThai or our legacy clients (for example `-devserver`, g0v0 or LazerAuthlibInjection). See [How do I connect?](#how-do-i-connect)
+- **You connected another way** than the Somtum Launcher, the Somtum Patcher, TumThai or our legacy clients (for example `-devserver`, your own modded client, g0v0 or LazerAuthlibInjection). See [How do I connect?](#how-do-i-connect)
 
 If your account is restricted, your scores are still saved, but they're hidden from everyone else: only you can see them (see [Restrictions & appeals](/legal/en/Restrictions)).
 
