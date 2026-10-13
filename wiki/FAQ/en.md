@@ -71,10 +71,6 @@ Relax and Autopilot have their own leaderboards, rankings and pp, separate from 
 
 Every osu! beatmap, with the same ranked status as on osu!, plus maps submitted here by our mappers. Download maps in the game (osu!direct) or from the [beatmap listing](/beatmapsets).
 
-## Will my pp change? {id=pp-update}
-
-Yes, soon. We're updating our pp (performance points) calculation to the latest official osu! one. When it goes live, every score is recalculated, so your pp, your rank and the leaderboards may change, and so can how much pp a score gives. We'll announce it in the [news](/home/news) and on our [Discord](https://discord.gg/U6Ztb3mRyz).
-
 ## Why didn't my score submit? {id=score-not-submitted}
 
 Every play on a beatmap the server knows is submitted and saved, with its replay, whatever the map's status. The status only decides what the play gives you, as on osu!:
