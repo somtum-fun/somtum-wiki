@@ -85,6 +85,7 @@ The Somtum Patcher launches osu!(stable) on somtum.fun and keeps the session fai
 - **Don't attach a debugger to osu!.exe.** The Patcher treats debuggers as tamper. If you're just curious, close the debugger before launching.
 - **Overlays like Discord, MSI Afterburner or RivaTuner are fine.** The Patcher only flags programs that read or write osu!'s own memory.
 - **Streaming and recording software are fine** (OBS, ShadowPlay, NVIDIA/AMD overlay). They don't touch the game.
+- **Tablet drivers are fine** (OpenTabletDriver in any output mode, Wacom, Huion, XP-Pen, Windows Ink).
 - **ReShade and other shader injectors aren't allowed**, and neither is anything else you add to the osu! folder. ReShade works by putting its own `opengl32.dll`, `d3d9.dll` or `dxgi.dll` next to `osu!.exe`, the same way some cheats load. With one of those files there, your scores aren't submitted. Delete it and start osu! again. Any other DLL that isn't part of osu! counts as cheating.
 
 If you weren't using any of those and your score was still refused, email [support@somtum.fun](mailto:support@somtum.fun) from your account's email with your username and roughly when you played, and we'll look into it.
@@ -99,7 +100,9 @@ Staff give them. See [User titles](/wiki/People/User_title) and [User groups](/w
 
 ## Can I change my username? {id=username}
 
-Email [accounts@somtum.fun](mailto:accounts@somtum.fun) from your account's email address.
+Yes, on the website: [Username change](/store/products/username-change) (in the store). Everyone gets 5 free changes every 30 days, and [Somtum Supporters](/home/support) can change it as often as they like. Some names can't be used (staff keep a list of blocked names).
+
+If it doesn't work for you, email [accounts@somtum.fun](mailto:accounts@somtum.fun) from your account's email address.
 
 ## Where do I report a bug or a player? {id=reporting}
 
