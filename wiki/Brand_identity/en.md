@@ -33,11 +33,13 @@ The first logo was made by blueskychan_ when somtum started, and was used until 
 
 ## Names {id=names}
 
-| Write | Not |
+Call us what you like: **somtum.fun**, **Somtum.fun!**, **Somtum** or **somtum** are all fine. The one thing we don't use is a name that starts with **osu!**, such as *osu!somtum* or *osu!tumthai*: osu! is ppy's name, and we aren't part of osu!.
+
+| Our things | Not |
 | :-- | :-- |
-| **somtum.fun** (always lowercase, also at the start of a sentence) | Somtum.fun, SOMTUM.FUN, osu!somtum |
-| **TumThai** (our version of osu!lazer) | Tumthai, osu!tumthai |
-| **Somtum Launcher**, **Somtum Patcher** | somtum launcher, osu!somtum patcher |
+| **somtum.fun**, **Somtum.fun!**, **Somtum** | osu!somtum |
+| **TumThai** (our version of osu!lazer) | osu!tumthai |
+| **Somtum Launcher**, **Somtum Patcher** | osu!somtum launcher, osu!somtum patcher |
 
 When you need to say what somtum.fun is: *somtum.fun is a fan-run private server for the osu! game. It is not affiliated with ppy Pty Ltd. osu! is a trademark of ppy Pty Ltd.*
 
