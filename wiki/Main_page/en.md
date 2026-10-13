@@ -42,7 +42,7 @@ Submit your maps from the editor, get them nominated by our Beatmap Nominators, 
 
 The people who run somtum.fun, and how to reach them.
 
-[Team](/wiki/People/Team) • [User groups](/wiki/People/User_groups) • [User titles](/wiki/People/User_title) • [Staff log](/wiki/People/Staff_log) • [Reporting abuse](/wiki/Reporting_bad_behaviour/Abuse) • [Discord](https://discord.gg/U6Ztb3mRyz)
+[Team](/wiki/People/Team) • [User groups](/wiki/People/User_groups) • [User titles](/wiki/People/User_title) • [Staff log](/wiki/People/Staff_log) • [Reporting abuse](/wiki/Reporting_bad_behaviour/Abuse) • [Brand identity](/wiki/Brand_identity) • [Discord](https://discord.gg/U6Ztb3mRyz)
 
 </div>
 <div class="wiki-main-page-panel">
