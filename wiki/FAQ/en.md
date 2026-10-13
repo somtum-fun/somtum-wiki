@@ -37,6 +37,8 @@ TumThai then reads that folder instead of its own, so close osu!lazer first. To 
 
 Make it in the game: open TumThai or osu!(stable) on somtum.fun and register there, not on the website. Then sign in to this website with the same name and password.
 
+New here and not set up yet? You can also make your account from osu!(stable) started with `-devserver somtum.fun`, or from another lazer client pointed at somtum.fun. Keep in mind that **you can't submit any scores** until you play on our official builds: TumThai, or osu!(stable) through the Somtum Launcher (or the Somtum Patcher), or one of our legacy clients. See [How do I connect?](#how-do-i-connect)
+
 You can have **one account**. Sign-ups through a VPN, proxy, Tor or a hosting network are blocked, and each network can make one account a day. If that stops you from signing up honestly, email [accounts@somtum.fun](mailto:accounts@somtum.fun).
 
 ## Is it free? {id=is-it-free}
