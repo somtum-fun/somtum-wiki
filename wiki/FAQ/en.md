@@ -83,6 +83,7 @@ The Somtum Patcher launches osu!(stable) on somtum.fun and keeps the session fai
 - **Don't attach a debugger to osu!.exe.** The Patcher treats debuggers as tamper. If you're just curious, close the debugger before launching.
 - **Overlays like Discord, MSI Afterburner or RivaTuner are fine.** The Patcher only flags programs that read or write osu!'s own memory.
 - **Streaming and recording software are fine** (OBS, ShadowPlay, NVIDIA/AMD overlay). They don't touch the game.
+- **ReShade and other shader injectors aren't allowed**, and neither is anything else you add to the osu! folder. ReShade works by putting its own `opengl32.dll`, `d3d9.dll` or `dxgi.dll` next to `osu!.exe`, the same way some cheats load. With one of those files there, your scores aren't submitted. Delete it and start osu! again. Any other DLL that isn't part of osu! counts as cheating.
 
 If you weren't using any of those and your score was still refused, email [support@somtum.fun](mailto:support@somtum.fun) from your account's email with your username and roughly when you played, and we'll look into it.
 
@@ -137,6 +138,14 @@ The Patcher's files were changed or damaged (an antivirus sometimes does this). 
 ### Legacy clients: "Score submission is disabled: the anti-cheat isn't running", "didn't respond in time", "failed the integrity check" or "is out of date" {id=error-legacy-anticheat}
 
 Our legacy clients load our anti-cheat, `pkms.dll`, from their own folder, and scores need it. Make sure `pkms.dll` is still next to `osu!.exe` (an antivirus sometimes removes it: add an exception for the folder), then start `osu!.exe` again. If that doesn't help, or the message says it's out of date, download your build again from the [download page](/home/download) and unzip it to a new folder.
+
+### "Score submission is disabled: a file next to osu!.exe replaces part of Windows" {id=error-proxy-dll}
+
+There's a file such as `opengl32.dll`, `d3d9.dll`, `dxgi.dll`, `dinput8.dll` or `version.dll` in your osu! folder. These come from ReShade or similar tools, which aren't allowed (see [Playing with the Somtum Patcher](#somtum-patcher)). Delete the file from your osu! folder, then start osu! again. You're not in trouble for this.
+
+### Legacy clients: "Score submission is disabled: this osu! folder doesn't match our download" {id=error-legacy-files}
+
+A file of your legacy client isn't the one we published: it was changed, replaced, or comes from another version. Download your build again from the [download page](/home/download) and unzip it to a new, empty folder.
 
 ### "Your Somtum Patcher is out of date" {id=error-patcher-outdated}
 
