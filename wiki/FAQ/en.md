@@ -12,7 +12,7 @@ All downloads are on the [download page](/home/download). The easiest way is the
 
 - **TumThai** is our version of osu!lazer, for Windows, Linux, macOS and Android. Install it (or unzip the portable version) and sign in. It updates itself.
 - **osu!(stable):** start your osu!(stable) with the **Somtum Patcher** (or from the Somtum Launcher).
-- **Old clients (2008 to 2015):** download one of our rebuilt legacy clients, unzip it anywhere and run `osu!.exe`. They need Windows and .NET Framework 3.5 (a few 2015 builds need .NET Framework 4). Can't find the build you want? Ask for it in our [Discord server](https://discord.gg/U6Ztb3mRyz) or on the [forum](/community/forums/4).
+- **Old clients (2008 to 2015):** download one of our rebuilt legacy clients, unzip it anywhere and run `osu!.exe`. Keep `pkms.dll` (our anti-cheat) next to `osu!.exe`: without it your scores aren't submitted. They need Windows and .NET Framework 3.5 (a few 2015 builds need .NET Framework 4). Can't find the build you want? Ask for it in our [Discord server](https://discord.gg/U6Ztb3mRyz) or on the [forum](/community/forums/4).
 
 **Only these submit scores.** From October 2026, our anti-cheat checks every client that plays here, and only the Somtum Launcher, the Somtum Patcher, TumThai and our rebuilt legacy clients pass. You can still connect other ways, and log in, chat, play and join multiplayer, but **your scores won't be submitted**, because the anti-cheat can't verify those clients:
 
@@ -133,6 +133,10 @@ osu!(stable) was started without the Somtum Patcher, or the Patcher was closed o
 ### "Score submission is disabled: your Somtum Patcher failed the integrity check" {id=error-patcher-integrity}
 
 The Patcher's files were changed or damaged (an antivirus sometimes does this). Download it again from the [download page](/home/download) and reinstall it. If your antivirus removes it, add an exception for the Patcher's folder.
+
+### Legacy clients: "Score submission is disabled: the anti-cheat isn't running", "didn't respond in time", "failed the integrity check" or "is out of date" {id=error-legacy-anticheat}
+
+Our legacy clients load our anti-cheat, `pkms.dll`, from their own folder, and scores need it. Make sure `pkms.dll` is still next to `osu!.exe` (an antivirus sometimes removes it: add an exception for the folder), then start `osu!.exe` again. If that doesn't help, or the message says it's out of date, download your build again from the [download page](/home/download) and unzip it to a new folder.
 
 ### "Your Somtum Patcher is out of date" {id=error-patcher-outdated}
 
