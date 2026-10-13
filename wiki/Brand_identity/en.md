@@ -27,7 +27,7 @@ The somtum.fun logo is a lime and a lime slice behind the words **somtum.fun!**,
 | Logo | Years | Made by |
 | :-- | :-- | :-- |
 | ![The current logo](img/somtum-logo.png) | Development builds from 2025; somtum.fun from 2026 to now | **@aeonvi** (on Discord) |
-| ![The first logo: three limes, the words "somtum.fun!" in white and an osu! badge](img/somtum-logo-2024.png) | 2024 to 2025, from the beginning of somtum | **[blueskychan_](/users/2)**, made with the PixelLab app on Android |
+| ![The first logo: three limes, the words "somtum.fun!" in white and an osu! badge](img/somtum-logo-2024-2025.png) | 2024 to 2025, from the beginning of somtum | **[blueskychan_](/users/2)**, made with the PixelLab app on Android |
 
 The first logo was made by blueskychan_ when somtum started, and was used until 2025. The current logo, by @aeonvi, was first used for our development builds in 2025, and has been somtum.fun's logo since 2026.
 
