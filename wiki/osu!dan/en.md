@@ -8,7 +8,7 @@ See every course, its maps and who has cleared it on the [osu!dan page](/communi
 
 A play counts as a **clear** only when all of these are true:
 
-- **osu!mania**, in **osu!(stable)**: today's osu! through the Somtum Patcher, or one of our patched old clients from mid-2013 on.
+- **osu!mania**, in **osu!(stable)**: today's osu! through the Somtum Patcher, or one of our patched old clients from mid-2013 on. Dan maps can't be played for scores in TumThai (osu!lazer) yet: see [below](#lazer).
 - **No pausing.** BanchoBot spectates you while you play a course map (you'll see "BanchoBot is spectating"), so it can tell if you pause.
 - **Accuracy:** 96% or more, or 95% for intro courses. The accuracy is the one the game shows you, to two decimals.
 - **Only allowed mods:** Mirror, Hidden, Fade In, Flashlight, Hard Rock, Double Time and Nightcore, unless a course says otherwise.
@@ -18,7 +18,7 @@ A course with several maps is cleared once each of its maps has a clear. If you 
 
 ## What happens to a play that doesn't count {id=not-a-clear}
 
-It's still a **normal score**: it stays on the leaderboard and in your stats, it just isn't a dan clear. BanchoBot tells you why, for example:
+In osu!(stable), it's still a **normal score**: it stays on the leaderboard and in your stats, it just isn't a dan clear. BanchoBot tells you why, for example:
 
 | BanchoBot says | What to do |
 | :-- | :-- |
@@ -42,7 +42,12 @@ Type these in any chat, or in a private message to BanchoBot:
 
 ## osu!lazer and TumThai {id=lazer}
 
-Plays in TumThai (our osu!lazer) are saved as normal scores, but they can't be dan clears yet: BanchoBot can't watch them for pauses. Use osu!(stable) for dan courses.
+osu!dan is only for osu!(stable) for now: BanchoBot can't watch osu!lazer plays for pauses yet. When you start a dan map in TumThai (our osu!lazer), the game tells you:
+
+> **Score will not be submitted**
+> This beatmap is part of osu!dan, which is only for osu!(stable) for now. Stay tuned!
+
+You can still play the map, but the score isn't saved: it doesn't go on the leaderboard or in your stats. In multiplayer and playlists the map can't be started at all. Play dan courses in osu!(stable). Stay tuned for osu!lazer support.
 
 ## Beatmaps {id=beatmaps}
 

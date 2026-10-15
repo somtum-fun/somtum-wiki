@@ -235,3 +235,7 @@ Close some of the tournament client's windows and try again (see [Tournament cli
 ### osu!dan: "this attempt won't count as a clear" {id=error-dan}
 
 Your score is saved as normal, it just isn't a dan clear. See [osu!dan](/wiki/osu!dan#not-a-clear) for each reason.
+
+### osu!dan: "This beatmap is part of osu!dan, which is only for osu!(stable) for now" {id=error-dan-lazer}
+
+TumThai (osu!lazer) shows this under "Score will not be submitted" when you play a map from an [osu!dan](/wiki/osu!dan#lazer) course. Dan courses are osu!(stable) only for now, so the play isn't saved. Play the map in osu!(stable) instead.
