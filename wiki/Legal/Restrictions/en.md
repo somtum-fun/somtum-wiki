@@ -12,7 +12,7 @@ Your account can be "restricted" if you break the [rules](/legal/en/Rules) badly
 While your account is restricted:
 
 - you can't play multiplayer;
-- you can't chat in the game or send private messages (except to BanchoBot);
+- you can't chat in the game or send private messages (except to LimeBot);
 - other players can't see your profile;
 - you're left out of the global, country and score rankings.
 
