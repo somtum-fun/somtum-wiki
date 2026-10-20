@@ -65,7 +65,15 @@ Yes. Supporter tags are optional and help pay for the server.
 
 ## Relax and Autopilot {id=relax-and-autopilot}
 
-Relax and Autopilot have their own leaderboards, rankings and pp, separate from normal play, in both TumThai and osu!(stable). Choose them on the rankings page and on beatmap leaderboards.
+Relax and Autopilot have their own leaderboards, rankings and pp, separate from normal play, in both TumThai and osu!(stable). Choose them on the rankings page and on beatmap leaderboards. Their pp is worked out with other calculators: see [Performance points](/wiki/Performance_points).
+
+## How do I link my Discord account? {id=discord-link}
+
+Link it once, either way: in your [account settings](/home/account/edit#connections) under **Connections**, or with `/link` on our Discord bot (it gives you a code to send to LimeBot). Both make the same link, so **if you linked Discord on the website, you don't need `/link` too**. See [Linking Discord](/wiki/Map_of_the_day#linking-discord).
+
+## What are the daily challenge and the map of the day? {id=daily}
+
+The [daily challenge](/wiki/Daily_challenge) is a new map every day in a room in TumThai, ranked by score. The [map of the day](/wiki/Map_of_the_day) is our Discord bot's daily map: the best pass by pp wins a Discord role for a week. [How they differ](/wiki/Daily_challenge#map-of-the-day).
 
 ## Which beatmaps can I play? {id=beatmaps}
 
