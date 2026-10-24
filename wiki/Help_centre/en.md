@@ -4,7 +4,7 @@ Something wrong? Here's where to go.
 
 ## Quick answers
 
-Most questions are answered in the [FAQ](/wiki/FAQ): connecting, accounts, scores that didn't submit, and more.
+Most questions are answered in the [FAQ](/wiki/FAQ): connecting, accounts, scores that didn't submit, and more. Something not working? Try [Common problems](/wiki/Help_centre/Common_problems).
 
 ## Contact us
 

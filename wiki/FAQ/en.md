@@ -4,7 +4,7 @@ Answers to the questions we hear most. Can't find yours? See the [Help centre](/
 
 ## What is somtum.fun? {id=what-is-somtum-fun}
 
-somtum.fun is a fan-run private server for the rhythm game osu!. It has its own accounts, rankings, beatmaps and community. It is not affiliated with ppy Pty Ltd, and your osu! account and scores on osu.ppy.sh aren't shared with it.
+somtum.fun is a fan-run private server for the rhythm game osu!. It has its own accounts, rankings, beatmaps and community. It is not affiliated with ppy Pty Ltd, and your osu! account and scores on osu.ppy.sh aren't shared with it. It runs on its own server software, not bancho.py or g0v0: see [Why somtum.fun?](/wiki/Why_somtum.fun)
 
 ## How do I connect? {id=how-do-i-connect}
 

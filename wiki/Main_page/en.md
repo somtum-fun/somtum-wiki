@@ -15,7 +15,7 @@ Welcome to the somtum.fun wiki: how to play on somtum.fun, our rules, and where 
 
 New here? These pages get you playing. If anything goes wrong, the [Help centre](/wiki/Help_centre) knows where to go next.
 
-[Download](/home/download) • [FAQ](/wiki/FAQ) • [Rules](/legal/en/Rules) • [Help centre](/wiki/Help_centre)
+[Why somtum.fun?](/wiki/Why_somtum.fun) • [Download](/home/download) • [FAQ](/wiki/FAQ) • [Rules](/legal/en/Rules) • [Help centre](/wiki/Help_centre) • [Common problems](/wiki/Help_centre/Common_problems)
 
 </div>
 <div class="wiki-main-page-panel">
