@@ -8,7 +8,7 @@ See every course, its maps and who has cleared it on the [osu!dan page](/communi
 
 A play counts as a **clear** only when all of these are true:
 
-- **osu!mania**, in **osu!(stable)**: today's osu! through the Somtum Patcher, or one of our patched old clients from mid-2013 on. Dan maps can't be played for scores in TumThai (osu!lazer) yet: see [below](#lazer).
+- **osu!mania**, in **osu!(stable)**: today's osu! through the Somtum Patcher, or one of our patched old clients from mid-2013 on. TumThai (osu!lazer) plays count as scores but aren't clears yet: see [below](#lazer).
 - **No pausing.** LimeBot spectates you while you play a course map (you'll see "LimeBot is spectating"), so it can tell if you pause.
 - **Accuracy:** 96% or more, or 95% for intro courses. The accuracy is the one the game shows you, to two decimals.
 - **Only allowed mods:** Mirror, Hidden, Fade In, Flashlight, Hard Rock, Double Time and Nightcore, unless a course says otherwise.
@@ -18,7 +18,7 @@ A course with several maps is cleared once each of its maps has a clear. If you 
 
 ## What happens to a play that doesn't count {id=not-a-clear}
 
-In osu!(stable), it's still a **normal score**: it stays on the leaderboard and in your stats, it just isn't a dan clear. LimeBot tells you why, for example:
+In osu!(stable), it's still a **normal score**: it stays on the leaderboard and in your stats, it just isn't a dan clear. (In TumThai, a play that breaks the rules isn't kept: see [osu!lazer and TumThai](#lazer).) LimeBot tells you why, for example:
 
 | LimeBot says | What to do |
 | :-- | :-- |
@@ -42,12 +42,15 @@ Type these in any chat, or in a private message to LimeBot:
 
 ## osu!lazer and TumThai {id=lazer}
 
-osu!dan is only for osu!(stable) for now: LimeBot can't watch osu!lazer plays for pauses yet. When you start a dan map in TumThai (our osu!lazer), the game tells you:
+You can play dan courses in TumThai (our osu!lazer), with the same rules:
 
-> **Score will not be submitted**
-> This beatmap is part of osu!dan, which is only for osu!(stable) for now. Stay tuned!
+- **Turn on the Classic mod (CL).** Without it, TumThai shows "Score will not be submitted" and says why. An older TumThai is asked to update.
+- **Don't pause.** The first pause tells you the play can't count, and a paused play isn't submitted.
+- **The rest of the [rules](#rules) apply too:** osu!mania only, only the allowed mods (a lazer-only mod, or one with its own settings, isn't allowed), and the course's accuracy, counted as osu!(stable) counts it.
 
-You can still play the map, but the score isn't saved: it doesn't go on the leaderboard or in your stats. In multiplayer and playlists the map can't be started at all. Play dan courses in osu!(stable). Stay tuned for osu!lazer support.
+A TumThai play that keeps the rules goes on the map's leaderboard and in your stats like any other score. One that breaks them isn't kept at all.
+
+**TumThai plays aren't dan clears yet:** clears are still judged from osu!(stable) plays, so play a course there to have it on your record. Clears from TumThai are coming. Dan maps can't be played in multiplayer or playlists.
 
 ## Beatmaps {id=beatmaps}
 
