@@ -1,6 +1,6 @@
 # Common problems
 
-Quick fixes for the problems players run into most. For a message the game shows you, see [Error messages](/wiki/FAQ#errors). Still stuck? Ask in our [Discord](https://discord.gg/U6Ztb3mRyz).
+Quick fixes for the problems players run into most. For a message the game shows you, see [Error messages](/wiki/FAQ#errors). Still stuck, or did the game crash? [Report it](/wiki/Help_centre/Reporting_a_bug), with the logs.
 
 ## osu!(stable) and the Somtum Patcher {id=stable}
 
@@ -34,6 +34,14 @@ A first start under Wine can be slow. If you see "osu! did not finish starting w
 ### My osu!lazer beatmaps, skins and replays aren't there {id=tumthai-import}
 
 TumThai keeps its own files, apart from osu!lazer's. See [bringing your osu!lazer beatmaps and replays](/wiki/FAQ#tumthai-import).
+
+### A custom ruleset doesn't show up or won't start {id=custom-rulesets}
+
+Custom rulesets are installed in TumThai's **Settings → General → Custom rulesets**, and are ready at once. If one says it can't load, press **Update** there (the server may have moved to a newer release of it), or **Remove** it and install it again. Only the rulesets listed there are ranked here.
+
+### TumThai!Next {id=tumthai-next}
+
+TumThai!Next is TumThai's faster, experimental stream. If it misbehaves (a black screen, "No usable renderer was found", stutters at very high frame rates), switch back to TumThai (on the Somtum Launcher's TumThai page, or **Settings → General → Updates → Release stream** if you installed it yourself), or pick another renderer in **Settings → Graphics**, and [tell us](/wiki/Help_centre/Reporting_a_bug) what happened.
 
 ### "Score will not be submitted" {id=tumthai-not-submitted}
 

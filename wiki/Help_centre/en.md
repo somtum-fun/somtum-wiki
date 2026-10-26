@@ -6,11 +6,15 @@ Something wrong? Here's where to go.
 
 Most questions are answered in the [FAQ](/wiki/FAQ): connecting, accounts, scores that didn't submit, and more. Something not working? Try [Common problems](/wiki/Help_centre/Common_problems).
 
+## Found a bug, or did the game crash?
+
+See [Reporting a bug](/wiki/Help_centre/Reporting_a_bug): what to tell us, how to get the logs (the Somtum Launcher's **Export logs** gathers them for you), and where to send them.
+
 ## Contact us
 
 | For | Where |
 | :-- | :-- |
-| General help and bugs | Our [Discord](https://discord.gg/U6Ztb3mRyz), or [support@somtum.fun](mailto:support@somtum.fun) |
+| General help and bugs | Our [Discord](https://discord.gg/U6Ztb3mRyz), or [support@somtum.fun](mailto:support@somtum.fun); see [Reporting a bug](/wiki/Help_centre/Reporting_a_bug) |
 | Your account (sign-up problems, username changes, a lost account) | [accounts@somtum.fun](mailto:accounts@somtum.fun) |
 | Restrictions and appeals | Sign in and use the [appeal page](/home/appeal); see [Restrictions & appeals](/legal/en/Restrictions) |
 | Copyright (DMCA) | [dmca@somtum.fun](mailto:dmca@somtum.fun); see [Copyright](/legal/en/Copyright) |
