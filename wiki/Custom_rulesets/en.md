@@ -26,8 +26,6 @@ Each ruleset belongs to its developers. Report a bug in the gameplay itself on t
 
 Custom rulesets work in **TumThai** (our osu!lazer client) on Windows, Linux and macOS, and in **TumThai!Next** on Android too (pick TumThai!Next on the [download page](/home/download?stream=next)). They don't work in osu!(stable), the old clients or TumThai's Android app.
 
-On a phone, pick a ruleset made for touch, such as **sentakki**. Many of the others (osu!fps, FPSosu!, Tau, bosu, touhosu) need a mouse and keyboard.
-
 1. Sign in to TumThai.
 2. Open **Settings → General → Custom rulesets** and press **Install custom rulesets…**
 3. Press **Install** next to a ruleset. It appears in the ruleset bar at the top of the screen right away.
@@ -35,6 +33,16 @@ On a phone, pick a ruleset made for touch, such as **sentakki**. Many of the oth
 The same window shows when a ruleset has an **update**: press **Update**, then restart TumThai. Removing a ruleset also takes effect when TumThai restarts.
 
 Only the version somtum.fun ranks submits scores, so install and update rulesets from this window. A ruleset file you put in TumThai's `rulesets` folder yourself still plays, but its scores only submit when it's the same file. If a ruleset says *Doesn't work with this TumThai version*, it needs an update from its developers; until then it can't be played.
+
+### On phones and tablets {id=touch}
+
+Custom rulesets are made by their developers for PC first, and **most aren't designed for touchscreens**. On a phone or tablet, some can't be played properly by touch, some controls may be missing or awkward, and some may not work at all. This comes from how each ruleset is made, so we can't fix it on our side: only the ruleset's developers can add touch support.
+
+- **sentakki** is made for touch and is the best one to start with.
+- **osu!fps, FPSosu!, Tau, bosu and touhosu** need a mouse and keyboard. They may load on a phone, but expect them to be hard or impossible to play.
+- A mouse or keyboard plugged into your phone helps with some of them.
+
+If a ruleset crashes or doesn't load on your phone, play it on PC instead, or tell its developers on its page (linked in the table above).
 
 ## Scores and rankings {id=scores}
 
