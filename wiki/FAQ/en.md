@@ -33,6 +33,10 @@ TumThai can use the beatmaps, skins and replays you already have in osu!lazer. I
 
 TumThai then reads that folder instead of its own, so close osu!lazer first. To move back, choose another folder the same way.
 
+## Can I play custom rulesets? {id=custom-rulesets}
+
+Yes, in TumThai on Windows, Linux and macOS: sentakki, Tau, Rush!, osu!fps and more, each with its own leaderboards and rankings by score. Install them from **Settings → General → Custom rulesets**. See [Custom rulesets](/wiki/Custom_rulesets) for the full list and how scores count.
+
 ## Connecting with another lazer client {id=other-lazer-clients}
 
 Using g0v0's client, another lazer-based client, or osu!lazer with LazerAuthlibInjection? Fill in these settings:

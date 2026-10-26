@@ -24,7 +24,7 @@ New here? These pages get you playing. If anything goes wrong, the [Help centre]
 
 Play with TumThai (our osu!lazer client), with osu!(stable) through the Somtum Patcher, or with an osu! client from 2008 to 2015. One account works in all of them and on this website.
 
-[How to connect](/wiki/FAQ#how-do-i-connect) • [Relax and Autopilot](/wiki/FAQ#relax-and-autopilot) • [Performance points](/wiki/Performance_points) • [Daily challenge](/wiki/Daily_challenge) • [Map of the day](/wiki/Map_of_the_day) • [osu!dan](/wiki/osu!dan) • [Error messages](/wiki/FAQ#errors) • [Restrictions & appeals](/legal/en/Restrictions)
+[How to connect](/wiki/FAQ#how-do-i-connect) • [Relax and Autopilot](/wiki/FAQ#relax-and-autopilot) • [Custom rulesets](/wiki/Custom_rulesets) • [Performance points](/wiki/Performance_points) • [Daily challenge](/wiki/Daily_challenge) • [Map of the day](/wiki/Map_of_the_day) • [osu!dan](/wiki/osu!dan) • [Error messages](/wiki/FAQ#errors) • [Restrictions & appeals](/legal/en/Restrictions)
 
 </div>
 <div class="wiki-main-page-panel">
