@@ -8,7 +8,7 @@ somtum.fun is a free, fan-run osu! server. Here's what you get by playing here, 
 - **One account everywhere:** the same account, profile and friends in TumThai (osu!lazer), osu!(stable) and the old 2008-2015 clients.
 - **osu!lazer sees osu!(stable) scores**, like on osu!: one leaderboard per map, whichever client you play on.
 - **Old clients welcome:** 75 osu! builds from 2008 to 2015, rebuilt to connect here.
-- **Built-in pp calculator:** pp for every play, worked out on the server, including Relax and Autopilot; a pp calculator on every beatmap page, in every mode; and a live pp counter in osu!(stable) through the Somtum Patcher.
+- **Built-in pp calculator:** every beatmap page on the website has one: pick mods, misses, combo and accuracy and see what a pass would be worth, in every mode (converted maps too). Every play's pp is worked out on the server, Relax and Autopilot included, and osu!(stable) gets a live pp counter through the Somtum Patcher.
 - **Earn custom medals** the community asked for, on top of osu!'s own.
 - **Custom rulesets:** play Sentakki, Tau, Rush!, Soyokaze and more in TumThai, with their own leaderboards and rankings.
 - **More to play:** Relax and Autopilot boards, [osu!dan](/wiki/osu!dan) courses, the [Daily challenge](/wiki/Daily_challenge) and [Map of the day](/wiki/Map_of_the_day).
