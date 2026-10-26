@@ -244,6 +244,6 @@ Close some of the tournament client's windows and try again (see [Tournament cli
 
 Your score is saved as normal, it just isn't a dan clear. See [osu!dan](/wiki/osu!dan#not-a-clear) for each reason.
 
-### osu!dan: "This beatmap is part of osu!dan, which is only for osu!(stable) for now" {id=error-dan-lazer}
+### osu!dan: "This beatmap is part of osu!dan, which can't be played in multiplayer or playlists" {id=error-dan-lazer}
 
-TumThai (osu!lazer) shows this under "Score will not be submitted" when you play a map from an [osu!dan](/wiki/osu!dan#lazer) course. Dan courses are osu!(stable) only for now, so the play isn't saved. Play the map in osu!(stable) instead.
+TumThai (osu!lazer) shows this under "Score will not be submitted" when a multiplayer room or playlist has a map from an [osu!dan](/wiki/osu!dan#lazer) course. Dan maps are only for solo play, so the play isn't saved. Play the map on its own (with the Classic mod) instead.

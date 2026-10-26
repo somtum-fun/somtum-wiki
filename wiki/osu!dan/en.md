@@ -8,7 +8,7 @@ See every course, its maps and who has cleared it on the [osu!dan page](/communi
 
 A play counts as a **clear** only when all of these are true:
 
-- **osu!mania**, in **osu!(stable)**: today's osu! through the Somtum Patcher, or one of our patched old clients from mid-2013 on. TumThai (osu!lazer) plays count as scores but aren't clears yet: see [below](#lazer).
+- **osu!mania**, in **osu!(stable)** (today's osu! through the Somtum Patcher, or one of our patched old clients from mid-2013 on) or in **TumThai** (our osu!lazer) with the Classic mod: see [below](#lazer).
 - **No pausing.** LimeBot spectates you while you play a course map (you'll see "LimeBot is spectating"), so it can tell if you pause.
 - **Accuracy:** 96% or more, or 95% for intro courses. The accuracy is the one the game shows you, to two decimals.
 - **Only allowed mods:** Mirror, Hidden, Fade In, Flashlight, Hard Rock, Double Time and Nightcore, unless a course says otherwise.
@@ -48,9 +48,9 @@ You can play dan courses in TumThai (our osu!lazer), with the same rules:
 - **Don't pause.** The first pause tells you the play can't count, and a paused play isn't submitted.
 - **The rest of the [rules](#rules) apply too:** osu!mania only, only the allowed mods (a lazer-only mod, or one with its own settings, isn't allowed), and the course's accuracy, counted as osu!(stable) counts it.
 
-A TumThai play that keeps the rules goes on the map's leaderboard and in your stats like any other score. One that breaks them isn't kept at all.
+A TumThai play that keeps the rules goes on the map's leaderboard and in your stats like any other score, and **counts as a clear**, within a couple of minutes of finishing (once the server has processed it). One that breaks them isn't kept at all.
 
-**TumThai plays aren't dan clears yet:** clears are still judged from osu!(stable) plays, so play a course there to have it on your record. Clears from TumThai are coming. Dan maps can't be played in multiplayer or playlists.
+Instead of LimeBot, our spectator server watches TumThai plays: it's how the server knows you didn't pause. A play it didn't see (for example, if your connection to it dropped) isn't a clear, so play the map again. Dan maps can't be played in multiplayer or playlists.
 
 ## Beatmaps {id=beatmaps}
 
