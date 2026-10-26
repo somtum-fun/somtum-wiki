@@ -51,6 +51,10 @@ Using g0v0's client, another lazer-based client, or osu!lazer with LazerAuthlibI
 
 You can log in, chat, spectate and play multiplayer, but **score submission never works** on these clients. For your scores to count, play on [TumThai](#how-do-i-connect).
 
+## My antivirus or Windows warns about your downloads {id=antivirus}
+
+Our downloads aren't code-signed: signing them would cost us upwards of 300€ a year, which is too much for a free community server. So Windows may show "Windows protected your PC" (click **More info**, then **Run anyway**), and antiviruses may block or remove the Somtum Launcher, the Somtum Patcher, `pkms.dll`, TumThai or our old clients by mistake. Add an exception for their folders: see [My antivirus or Windows blocks a download](/wiki/Help_centre/Common_problems#antivirus) for the steps. Only do this for files from our [download page](/home/download).
+
 ## How do I make an account? {id=registration}
 
 Make it in the game: open TumThai or osu!(stable) on somtum.fun and register there, not on the website. Then sign in to this website with the same name and password.

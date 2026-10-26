@@ -17,9 +17,21 @@ The Somtum Patcher adds Relax and Autopilot scores, the live pp counter and its 
 3. Start osu! again from the Patcher.
 4. Still freezing? Try the [cuttingedge release stream](#patcher-features), and tell us on [Discord](https://discord.gg/U6Ztb3mRyz).
 
-### My antivirus removed or blocked the Patcher or pkms.dll {id=antivirus}
+### My antivirus or Windows blocks a download, or removed a file {id=antivirus}
 
-Some antiviruses (Windows Defender among them) flag tools that change a running game, so they sometimes block the Somtum Patcher or our anti-cheat, `pkms.dll`, by mistake. Download it again from the [download page](/home/download) and add an exception for its folder. Without the anti-cheat your scores aren't submitted.
+Our downloads aren't **code-signed**. Signing them would cost us upwards of 300€ a year, which is too much for a free community server. Without a signature, Windows and antiviruses don't know us, so they may warn about, block or quarantine the **Somtum Launcher**, the **Somtum Patcher**, our anti-cheat (`pkms.dll`), **TumThai's** installer or our **old clients**. Some antiviruses (Windows Defender among them) also flag tools that change a running game, such as the Patcher and the anti-cheat, by mistake.
+
+**"Windows protected your PC"** (SmartScreen) when you open a download: click **More info**, then **Run anyway**.
+
+**Your antivirus blocked or removed a file:** add an exception (a whitelist entry) for the folder, then download it again from the [download page](/home/download). In Windows Security:
+
+1. Open **Windows Security**, then **Virus & threat protection**.
+2. If it already removed the file: **Protection history**, pick the entry, then **Actions**, **Restore** (or **Allow on device**).
+3. Under **Virus & threat protection settings**, click **Manage settings**, then **Exclusions**, **Add or remove exclusions**, **Add an exclusion**, **Folder**, and pick the folder: the Somtum Launcher's, the Patcher's, TumThai's or your old client's.
+
+Other antiviruses (Avast, AVG, Kaspersky, Norton, Bitdefender, ...) have the same thing under a name like *Exceptions*, *Exclusions* or *Allowed list*. If yours still won't let it install, you can turn its real-time protection off just while you install, then turn it back on and add the exception.
+
+Only do this for files from our [download page](/home/download) (dl.somtum.fun): we never send downloads through Discord DMs or other sites. Without the anti-cheat your scores aren't submitted, so if `pkms.dll` was removed, restore it or download the client again.
 
 ### ReShade or another shader tool {id=reshade}
 
