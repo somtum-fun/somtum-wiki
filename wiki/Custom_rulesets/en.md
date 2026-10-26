@@ -24,7 +24,9 @@ Each ruleset belongs to its developers. Report a bug in the gameplay itself on t
 
 ## Installing a ruleset {id=install}
 
-Custom rulesets work in **TumThai** (our osu!lazer client) on Windows, Linux and macOS. They don't work in osu!(stable), the old clients or TumThai on Android.
+Custom rulesets work in **TumThai** (our osu!lazer client) on Windows, Linux and macOS, and in **TumThai!Next** on Android too (pick TumThai!Next on the [download page](/home/download?stream=next)). They don't work in osu!(stable), the old clients or TumThai's Android app.
+
+On a phone, pick a ruleset made for touch, such as **sentakki**. Many of the others (osu!fps, FPSosu!, Tau, bosu, touhosu) need a mouse and keyboard.
 
 1. Sign in to TumThai.
 2. Open **Settings → General → Custom rulesets** and press **Install custom rulesets…**
@@ -51,7 +53,7 @@ Your new score shows on the website and in the Discord bot as soon as it's submi
 - **Multiplayer and spectating.**
 - **Replay renders**: the score page and the Discord bot say a render isn't available for a custom ruleset.
 - **Medals.**
-- **osu!(stable), old clients and Android.**
+- **osu!(stable), the old clients and TumThai's Android app** (TumThai!Next on Android works).
 
 ## See also {id=see-also}
 

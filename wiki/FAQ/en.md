@@ -35,7 +35,7 @@ TumThai then reads that folder instead of its own, so close osu!lazer first. To 
 
 ## Can I play custom rulesets? {id=custom-rulesets}
 
-Yes, in TumThai on Windows, Linux and macOS: sentakki, Tau, Rush!, osu!fps and more, each with its own leaderboards and rankings by score. Install them from **Settings → General → Custom rulesets**. See [Custom rulesets](/wiki/Custom_rulesets) for the full list and how scores count.
+Yes, in TumThai on Windows, Linux and macOS, and in TumThai!Next on Android: sentakki, Tau, Rush!, osu!fps and more, each with its own leaderboards and rankings by score. Install them from **Settings → General → Custom rulesets**. See [Custom rulesets](/wiki/Custom_rulesets) for the full list and how scores count.
 
 ## Connecting with another lazer client {id=other-lazer-clients}
 
