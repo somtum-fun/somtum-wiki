@@ -23,6 +23,8 @@ Our downloads aren't **code-signed**. Signing them would cost us upwards of 300â
 
 **"Windows protected your PC"** (SmartScreen) when you open a download: click **More info**, then **Run anyway**.
 
+**"Part of this app has been blocked"** (Smart App Control): an exception won't help, see [Smart App Control](#smart-app-control).
+
 **Your antivirus blocked or removed a file:** add an exception (a whitelist entry) for the folder, then download it again from the [download page](/home/download). In Windows Security:
 
 1. Open **Windows Security**, then **Virus & threat protection**.
@@ -32,6 +34,22 @@ Our downloads aren't **code-signed**. Signing them would cost us upwards of 300â
 Other antiviruses (Avast, AVG, Kaspersky, Norton, Bitdefender, ...) have the same thing under a name like *Exceptions*, *Exclusions* or *Allowed list*. If yours still won't let it install, you can turn its real-time protection off just while you install, then turn it back on and add the exception.
 
 Only do this for files from our [download page](/home/download) (dl.somtum.fun): we never send downloads through Discord DMs or other sites. Without the anti-cheat your scores aren't submitted, so if `pkms.dll` was removed, restore it or download the client again.
+
+### Windows says "Part of this app has been blocked" (Smart App Control) {id=smart-app-control}
+
+![A Windows Security popup: "Part of this app has been blocked. Some features of somtum-launcher may not work because we can't confirm who published pkms_injector.exe that the app tried to load."](img/smart-app-control-blocked.png "Smart App Control blocking part of the Somtum Launcher")
+
+Recent Windows security updates block apps that aren't code-signed by default, through a feature called **Smart App Control**. Ours [aren't signed](#antivirus), so this affects **every somtum build**: TumThai, the old clients, and osu!(stable) with the Somtum Patcher or the Somtum Launcher. The file named in the popup can differ.
+
+Smart App Control has no list of allowed apps, so an [antivirus exception](#antivirus) doesn't help here, and **Run anyway** doesn't appear. To play, you need to turn it off:
+
+1. Click the Windows search bar, type **Smart App Control**, and open the first result. Or open **Windows Security**, then **App & browser control**, then **Smart App Control settings**.
+2. Change it from **On** to **Off**.
+3. Start the game again.
+
+Smart App Control protects your whole PC, not just the game, so keep your other downloads to places you trust once it's off. On an up-to-date Windows you can usually turn it back on later from the same page, but on some PCs the option stays greyed out, and getting it back may take a Windows update or a reset of the PC.
+
+**This may not work on a work or school PC**, or any other PC you don't own: the organisation that manages it may control this setting. If you can't change it there, ask whoever looks after that PC, or play on your own.
 
 ### ReShade or another shader tool {id=reshade}
 
