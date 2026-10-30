@@ -14,6 +14,8 @@ Staff give titles. You can't pick one yourself, and they aren't for sale or incl
 
 If you think you've earned one, ask on our [Discord](https://discord.gg/U6Ztb3mRyz). Please don't message staff privately to ask.
 
+Players who hold a one-of-a-kind title are listed on [Users with unique titles](/wiki/People/Users_with_unique_titles).
+
 ## Losing a title {id=losing-one}
 
 A title from a team role goes when you leave the group. Staff can also take a title away, for example if it was given by mistake or if it's used to pretend to be staff. A title isn't a staff role: holding one gives you no extra rights.
