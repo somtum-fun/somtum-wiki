@@ -242,11 +242,13 @@ Your account, or another account on your computer, is banned. Banned accounts ca
 
 ### Banned here, but I want to play on another server {id=error-banned-other-server}
 
-A ban makes osu! refuse to log in on every server for a day, because it saves a flag in `osu!.db`. To remove it, you need the Somtum Launcher 1.0.9 or newer (1.0.7 on Linux):
+A ban makes osu! refuse to log in on every server for a day, because it saves a flag in `osu!.db`. To remove it, you need the Somtum Launcher 1.0.3 or newer:
 
 1. Close osu!.
 2. In the Somtum Launcher, open **Settings → Advanced options** and press **Check for a ban flag**.
 3. If it finds one, press **Remove the ban flag**. Your `osu!.db` is saved first, as `osu!.db.bak`.
+
+In a terminal, it's `somtum-launcher.exe --ban-flag --remove` on Windows and `somtum ban-flag --remove` on Linux.
 
 This only changes your computer. It doesn't lift a ban on somtum.fun: you still can't log in here.
 
