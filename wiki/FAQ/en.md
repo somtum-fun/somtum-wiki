@@ -240,6 +240,16 @@ Staff locked the account. Email [support@somtum.fun](mailto:support@somtum.fun) 
 
 Your account, or another account on your computer, is banned. Banned accounts can't log in to the game or this website, and the ban covers the computer as well as the account. osu! also forgets your saved password and won't try to log in for a day. Please don't make another account: it won't get in either. If you think this is a mistake (a shared computer, for example), email [accounts@somtum.fun](mailto:accounts@somtum.fun).
 
+### Banned here, but I want to play on another server {id=error-banned-other-server}
+
+A ban makes osu! refuse to log in on every server for a day, because it saves a flag in `osu!.db`. To remove it, you need the Somtum Launcher 1.0.9 or newer (1.0.7 on Linux):
+
+1. Close osu!.
+2. In the Somtum Launcher, open **Settings → Advanced options** and press **Check for a ban flag**.
+3. If it finds one, press **Remove the ban flag**. Your `osu!.db` is saved first, as `osu!.db.bak`.
+
+This only changes your computer. It doesn't lift a ban on somtum.fun: you still can't log in here.
+
 ### "This account has been deleted" {id=error-deleted}
 
 The account was deleted on request or by staff. Email [accounts@somtum.fun](mailto:accounts@somtum.fun) if you think that's a mistake.
