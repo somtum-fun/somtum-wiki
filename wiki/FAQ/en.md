@@ -238,7 +238,7 @@ Staff locked the account. Email [support@somtum.fun](mailto:support@somtum.fun) 
 
 ### "You are banned" {id=error-banned}
 
-Your account, or another account on your computer, is banned. Banned accounts can't log in to the game or this website, and the ban covers the computer as well as the account. osu! also forgets your saved password and won't try to log in for a day. Please don't make another account: it won't get in either. If you think this is a mistake (a shared computer, for example), email [accounts@somtum.fun](mailto:accounts@somtum.fun).
+Your account, or another account on your computer, is banned. We don't usually ban players: most problems end in a restriction, and a ban is only for when it's really needed or the problem is huge. Banned accounts can't log in to the game or this website, and the ban covers the computer as well as the account. osu! also forgets your saved password and won't try to log in for a day. Please don't make another account: it won't get in either. If you think this is a mistake (a shared computer, for example), email [accounts@somtum.fun](mailto:accounts@somtum.fun).
 
 ### Banned here, but I want to play on another server {id=error-banned-other-server}
 
