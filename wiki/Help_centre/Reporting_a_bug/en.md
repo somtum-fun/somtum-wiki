@@ -9,7 +9,7 @@ Before you report, check [Common problems](/wiki/Help_centre/Common_problems) an
 - **Our [Discord server](https://discord.gg/U6Ztb3mRyz):** the quickest way, and staff can ask you questions.
 - **Email [support@somtum.fun](mailto:support@somtum.fun)** from your account's email address, if you'd rather not use Discord. Attach the logs to the email.
 
-For a cheater or a rude player, use the report button instead (see [Help centre](/wiki/Help_centre#reporting-a-player)). For a security problem (a way to cheat the server, or to see someone else's data), email [support@somtum.fun](mailto:support@somtum.fun) and don't post it in public.
+For a cheater or a rude player, use the report button instead (see [Help centre](/wiki/Help_centre#reporting-a-player)). For a security problem (a way to cheat the server, or to see someone else's data), see [Reporting a security problem](/wiki/Help_centre/Reporting_a_security_problem) and don't post it in public.
 
 ## What to tell us {id=what}
 

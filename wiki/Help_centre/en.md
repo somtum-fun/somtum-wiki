@@ -19,6 +19,7 @@ See [Reporting a bug](/wiki/Help_centre/Reporting_a_bug): what to tell us, how t
 | Restrictions and appeals | Sign in and use the [appeal page](/home/appeal); see [Restrictions & appeals](/legal/en/Restrictions) |
 | Copyright (DMCA) | [dmca@somtum.fun](mailto:dmca@somtum.fun); see [Copyright](/legal/en/Copyright) |
 | Harassment and abuse | See [Reporting abuse](/wiki/Reporting_bad_behaviour/Abuse) |
+| Security problems | [mind@somtum.fun](mailto:mind@somtum.fun); see [Reporting a security problem](/wiki/Help_centre/Reporting_a_security_problem) |
 
 Email us from your account's email address when you can, so we know it's you. We answer by email, usually within a few days.
 

@@ -236,6 +236,10 @@ A new account was made on the same computer as a restricted account. If that's a
 
 Staff locked the account. Email [support@somtum.fun](mailto:support@somtum.fun) from the account's email address.
 
+### "You are banned" {id=error-banned}
+
+Your account, or another account on your computer, is banned. Banned accounts can't log in to the game or this website, and the ban covers the computer as well as the account. osu! also forgets your saved password and won't try to log in for a day. Please don't make another account: it won't get in either. If you think this is a mistake (a shared computer, for example), email [accounts@somtum.fun](mailto:accounts@somtum.fun).
+
 ### "This account has been deleted" {id=error-deleted}
 
 The account was deleted on request or by staff. Email [accounts@somtum.fun](mailto:accounts@somtum.fun) if you think that's a mistake.
