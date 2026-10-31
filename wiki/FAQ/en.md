@@ -121,7 +121,7 @@ The Somtum Patcher launches osu!(stable) on somtum.fun and keeps the session fai
 - **Don't attach a debugger to osu!.exe.** The Patcher treats debuggers as tamper. If you're just curious, close the debugger before launching.
 - **Overlays like Discord, MSI Afterburner or RivaTuner are fine.** The Patcher only flags programs that read or write osu!'s own memory.
 - **Streaming and recording software are fine** (OBS, ShadowPlay, NVIDIA/AMD overlay). They don't touch the game.
-- **Tablet drivers are fine** (OpenTabletDriver in any output mode, Wacom, Huion, XP-Pen, Windows Ink).
+- **Tablet drivers are fine** (OpenTabletDriver, Wacom, Huion, XP-Pen), but some OpenTabletDriver filters and plugins aren't allowed. See [Tablet filters](/wiki/Rules/Tablet_filters).
 - **ReShade and other shader injectors aren't allowed**, and neither is anything else you add to the osu! folder. ReShade works by putting its own `opengl32.dll`, `d3d9.dll` or `dxgi.dll` next to `osu!.exe`, the same way some cheats load. With one of those files there, your scores aren't submitted. Delete it and start osu! again. Any other DLL that isn't part of osu! counts as cheating.
 
 If you weren't using any of those and your score was still refused, email [support@somtum.fun](mailto:support@somtum.fun) from your account's email with your username and roughly when you played, and we'll look into it.

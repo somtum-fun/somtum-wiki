@@ -1,6 +1,6 @@
 # Rules
 
-The full community rules are on the [Rules](/legal/en/Rules) page. By playing on somtum.fun, you agree to them. This page adds the rules for submitting beatmaps.
+The full community rules are on the [Rules](/legal/en/Rules) page. By playing on somtum.fun, you agree to them. This page adds the rules for submitting beatmaps. If you play with a tablet, see which [tablet filters](/wiki/Rules/Tablet_filters) you can use.
 
 ## Beatmap submission rules {id=beatmap-submission-rules}
 
