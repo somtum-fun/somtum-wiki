@@ -13,3 +13,9 @@ Before somtum, our developer [blueskychan_](/users/2), then known as fusemeow, t
 ![A J6+ osu!bancho project profile page for the player Cookiezi, with 34,481 pp](img/j6-plus-cookiezi-34k-pp.jpg "The leaderboard's number one, Cookiezi, with 34,481 pp")
 
 ![A FuseMeow bancho project profile page for the player LiemHaveXperia, with 1,172 pp, best scores and recent scores](img/fusemeow-profile.jpg "A player's profile on the FuseMeow bancho project")
+
+blueskychan_ later talked about private servers with miinr in miinr's Discord server, and somehow the conversation ended up with the name "somtum".
+
+blueskychan_ also asked about a private server in the osu! Thailand Facebook group, and a few people said they would like to try it.
+
+![A post in the osu! Thailand Facebook group asking "anyone interesting this server?", with a screenshot of the server's code and logs next to the game](img/facebook-group-post.jpg "blueskychan_'s post in the osu! Thailand Facebook group")
