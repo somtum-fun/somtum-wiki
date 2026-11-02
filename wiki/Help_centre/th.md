@@ -8,7 +8,7 @@
 
 ## เจอบั๊ก หรือเกมแครช?
 
-ดู[การรายงานบั๊ก](/wiki/Help_centre/Reporting_a_bug) (ภาษาอังกฤษ): ต้องบอกอะไรเราบ้าง วิธีเก็บไฟล์ log (ปุ่ม **Export logs** ใน Somtum Launcher รวบรวมให้) และส่งไปที่ไหน
+ดู[การรายงานบั๊ก](/wiki/Help_centre/Reporting_a_bug): ต้องบอกอะไรเราบ้าง วิธีเก็บไฟล์ log (ปุ่ม **Export logs** ใน Somtum Launcher รวบรวมให้) และส่งไปที่ไหน
 
 ## ติดต่อเรา
 
