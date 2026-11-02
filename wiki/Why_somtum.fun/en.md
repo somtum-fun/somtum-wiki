@@ -1,6 +1,6 @@
 # Why somtum.fun?
 
-somtum.fun is a free, fan-run osu! private server, open to players worldwide. We started in Thailand as the country's second well-known osu! private server, after osu!rina, and now our community is mainly English-speaking. Our name comes from som tum, the Thai papaya salad. Here's what you get by playing here, and what runs it.
+somtum.fun is a free, fan-run osu! private server, open to players worldwide. We started in Thailand as the country's second well-known osu! private server, and now our community is mainly English-speaking. Our name comes from som tum, the Thai papaya salad. Here's what you get by playing here, and what runs it.
 
 ## At a glance {id=at-a-glance}
 
