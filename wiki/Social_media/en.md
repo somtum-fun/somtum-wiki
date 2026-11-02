@@ -8,6 +8,7 @@ These are somtum.fun's official places online. If a link isn't on this page or o
 | :-- | :-- | :-- |
 | **Discord** | [discord.gg/U6Ztb3mRyz](https://discord.gg/U6Ztb3mRyz) | Our main community: chat, help, announcements, and our bot (replay videos, map of the day) |
 | **X (Twitter)** | [@somtum_fun](https://x.com/somtum_fun) | News and updates |
+| **YouTube** | [@somtum-fun](https://www.youtube.com/@somtum-fun) | Our official videos |
 | **Forum** | [Community forum](/community/forums) | Help, beatmaps and discussion, on this website |
 | **News** | [News](/home/news) | Updates and announcements |
 
