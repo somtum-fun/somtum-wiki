@@ -54,4 +54,4 @@ We may update these terms. When we make a big change, we'll tell you on the webs
 
 ## Law
 
-These terms are governed by the laws of Thailand.
+These terms are governed by the laws of Thailand. This doesn't take away any rights your own country's consumer laws give you.
