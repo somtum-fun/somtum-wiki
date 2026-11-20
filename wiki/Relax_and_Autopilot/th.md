@@ -16,6 +16,8 @@
 
 pp ของ Relax และ Autopilot คำนวณด้วย [akatsuki-pp-rs](https://github.com/osuAkatsuki/akatsuki-pp-rs) ซึ่งทำมาสำหรับม็อดเหล่านี้โดยเฉพาะ จึงเทียบกับ pp ปกติไม่ได้ ดูตัวคำนวณของแต่ละโหมดได้ที่ [Performance points](/wiki/Performance_points)
 
+ใน lazer ม็อดเปลี่ยนความเร็วที่ตั้งความเร็วเอง (เช่น DT 1.2 เท่า) ได้ pp ตามความเร็วนั้น ระหว่างวันที่ 14 ถึง 20 พฤศจิกายน 2026 ไม่เป็นแบบนี้ ดู[บั๊ก pp ความเร็วกำหนดเอง](/wiki/Performance_points/Custom_speed_glitch)
+
 ## เพิ่มเติม {id=more}
 
 - [เล่น osu!lazer บนเซิร์ฟเวอร์ส่วนตัว](/wiki/Lazer_private_server)

@@ -16,6 +16,8 @@ Choose **Relax** or **Autopilot** on the [rankings page](/rankings/osu/global) a
 
 Relax and Autopilot pp comes from [akatsuki-pp-rs](https://github.com/osuAkatsuki/akatsuki-pp-rs), calculators made for these mods, so it isn't comparable with normal pp. See [Performance points](/wiki/Performance_points) for each mode's calculator.
 
+In lazer, a rate mod set to its own speed (DT at 1.2×, say) is paid at that speed. From 14 to 20 November 2026 it wasn't: see the [custom speed pp glitch](/wiki/Performance_points/Custom_speed_glitch).
+
 ## More {id=more}
 
 - [Playing osu!lazer on a private server](/wiki/Lazer_private_server)
