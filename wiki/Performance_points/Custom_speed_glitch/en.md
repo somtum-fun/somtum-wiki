@@ -10,6 +10,8 @@ Our pp calculator for Relax and Autopilot only got told *which* mods were on, no
 
 For example, Ito Kanako - Sky of Twilight (Sped Up Ver.) with HR, DT at 1.01× and Relax at 98.75% was given **3,147 pp**. It's worth **875 pp**.
 
+![A Discord score post from somtum.fun: AimControl, 3,147.39pp play on Ito Kanako - Sky of Twilight (Sped Up Ver.) [gwb Fan Club's Super Mega Ultra Deloox], +HRDTRX, 98.75%, x1066/2468](img/discord-score-post.png "The play as it was posted to Discord, with the glitched 3,147 pp")
+
 Only Relax was affected in practice: 707 plays from 4 players. Autopilot used the same calculator, but nobody played it at a custom speed. Normal (non-Relax) pp uses osu!'s own calculator, which always handled the speed correctly. osu!(stable) can't change DT's speed, so stable plays were never affected.
 
 ## How it was fixed {id=fix}

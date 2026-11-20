@@ -10,6 +10,8 @@
 
 ตัวอย่างเช่น Ito Kanako - Sky of Twilight (Sped Up Ver.) ที่เปิด HR, DT 1.01 เท่า และ Relax ได้ความแม่นยำ 98.75% ได้ไป **3,147 pp** แต่ค่าจริงคือ **875 pp**
 
+![โพสต์คะแนนบน Discord ของ somtum.fun: AimControl ได้ 3,147.39pp จาก Ito Kanako - Sky of Twilight (Sped Up Ver.) [gwb Fan Club's Super Mega Ultra Deloox], +HRDTRX, 98.75%, x1066/2468](img/discord-score-post.png "การเล่นนี้ตอนที่โพสต์ไป Discord พร้อม 3,147 pp จากบั๊ก")
+
 ที่ได้รับผลจริงมีแค่ Relax: 707 การเล่นจากผู้เล่น 4 คน Autopilot ใช้ตัวคำนวณเดียวกัน แต่ไม่มีใครเล่นด้วยความเร็วกำหนดเอง pp ปกติ (ไม่ใช่ Relax) ใช้ตัวคำนวณของ osu! เองซึ่งคิดความเร็วถูกต้องมาตลอด ส่วน osu!(stable) เปลี่ยนความเร็ว DT ไม่ได้ จึงไม่ได้รับผลกระทบ
 
 ## แก้ไขอย่างไร {id=fix}
