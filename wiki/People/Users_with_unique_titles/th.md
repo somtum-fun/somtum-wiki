@@ -6,7 +6,7 @@
 |---|---|---|
 | [blueskychan_](https://osu.somtum.fun/users/2) | Goat Developer | แม่ของ somtum |
 | [Alya](https://osu.somtum.fun/users/402) | Amazing Player | บางอย่าง |
-| [lily](https://osu.somtum.fun/users/10) | KFC The Box All Star + 2 Chick N' Roll | คลั่งไคล้ KFC |
+| [lily](https://osu.somtum.fun/users/10) | KFC The Box All Star + 2 Chick N' Roll | แดก KFC จนเป็นบ้า |
 | [Lilian](https://osu.somtum.fun/users/410) | framework dev | ช่วยงาน lazer และระบบหลังบ้าน |
 | [kahvi](https://osu.somtum.fun/users/478) | Anti-Cheat Specialist & Mobile QA | ทดสอบเจาะระบบกันโกงและไคลเอนต์ TumThai ของเราอย่างหนัก |
 | [susFries](https://osu.somtum.fun/users/502) | PP Breaker | [ดูด้านล่าง](#pp-breaker) |
